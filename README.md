@@ -1,4 +1,4 @@
-# 🎟 Ticket Sales Simulation – Python Project
+# Ticket Sales Simulation – Python Project
 
 **Goal:**  
 A simple Python program that simulates a daily ticket sale, where a maximum of 20 tickets can be sold per day.  
@@ -6,7 +6,7 @@ The script uses loops and conditional statements to manage user input and track 
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. The program starts with `tickets_ist = 0` (tickets sold) and `tickets_übrig = 20` (tickets available).  
 2. The user is asked how many tickets they would like to buy.  
@@ -19,7 +19,7 @@ The script uses loops and conditional statements to manage user input and track 
 
 ---
 
-## 🧩 Concepts Used
+## Concepts Used
 
 - **Loops** (`while`)  
 - **Conditional statements** (`if`, `elif`, `else`)  
